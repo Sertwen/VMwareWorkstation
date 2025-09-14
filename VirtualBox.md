@@ -24,8 +24,8 @@
 
 # VirtualBox 7.x
 
-* 7.1.12
-	* https://download.virtualbox.org/virtualbox/7.1.12/VirtualBox-7.1.12-169651-Win.exe
+* 7.2.2
+	* https://download.virtualbox.org/virtualbox/7.2.2/VirtualBox-7.2.2-170484-Win.exe
 * **……**
 * 7.0.26
 	* https://download.virtualbox.org/virtualbox/7.0.26/VirtualBox-7.0.26-168464-Win.exe
