@@ -11,6 +11,7 @@ VmwareWorkstation for Linux.
 
 # Menu
 * [The Last Build](#the-last-build)
+* [VMwareWorkstation ??H?](#vmwareworkstation-??H?)
 * [VMwareWorkstation 17.x](#vmwareworkstation-17.x)
 * [VMwareWorkstation 16.x](#vmwareworkstation-16.x)
 * [VMwareWorkstation 15.x](#vmwareworkstation-15.x)
@@ -22,8 +23,14 @@ VmwareWorkstation for Linux.
 * [More Versions](#more-versions)
 
 # The Last Build
-(1) Broadcom Official Website (Need login Broadcom account): https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true  
-(2) **`Link invalid`** ~~VMware CDS Repository (No login required, Link provided by [743859910](https://github.com/201853910/VMwareWorkstation/issues/20#issue-2509456970), **`This version does not include [VMware Tools]`**): https://softwareupdate.vmware.com/cds/vmw-desktop/ws/~~  
+Broadcom Official Website (Need login Broadcom account): https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro&freeDownloads=true  
+
+<hr>  
+
+# VMwareWorkstation ??H?
+
+* 25H2
+  * https://github.com/Sertwen/VMwareWorkstation/releases/download/25H2/VMware-Workstation-Full-25H2-24995812.x86_64.bundle
 
 <hr>
 
