@@ -35,7 +35,7 @@
   * https://github.com/Sertwen/VMwareWorkstation/releases/download/xxHx/VMware-Workstation-Full-25H2u1-25219725.exe
 
 * 25H2
-  * https://github.com/Sertwen/VMwareWorkstation/releases/download/25H2/VMware-Workstation-Full-25H2-24995812.exe
+  * https://github.com/Sertwen/VMwareWorkstation/releases/download/xxHx/VMware-Workstation-Full-25H2-24995812.exe
 
 <hr>
 
