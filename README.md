@@ -1,5 +1,6 @@
 > [!NOTE]
 > **原仓库作者已将本人添加为协作者，因此本分支已存档。请访问[原始项目](https://github.com/201853910/VMwareWorkstation)**
+> **The original repository author has added me as a collaborator, so this branch is archived. Please visit [Original Project](https://github.com/201853910/VMwareWorkstation)**
 <hr>
 
 **请注意：**  

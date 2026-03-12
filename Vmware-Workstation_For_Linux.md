@@ -1,5 +1,5 @@
 > [!NOTE]
-> **The original repository author has added me as a collaborator, so this branch is archived. Please visit [Original Project](https://github.com/201853910/VMwareWorkstation)**
+> **The original repository author has added me as a collaborator, so this branch is archived. Please visit [Original Project](https://github.com/201853910/VMwareWorkstation)**  
 <hr>
 
 **Starting from May 14, 2024, version 17.5.2, VMware Workstation Pro is available for free to personal users. For details information, Please [Click Here](https://blogs.vmware.com/cloud-foundation/2024/05/13/vmware-workstation-pro-now-available-free-for-personal-use/)**  
