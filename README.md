@@ -1,3 +1,7 @@
+> [!NOTE]
+> **原仓库作者已将本人添加为协作者，因此本分支已存档。请访问[原始项目](https://github.com/201853910/VMwareWorkstation)**
+<hr>
+
 **请注意：**  
 `Windows 7` 最终支持版本为 [`15.5.7`](#vmwareworkstation-15)；  
 `Windows XP`与`32位操作系统` 最终支持版本为 [`10.0.7`](#vmwareworkstation-10)。  
@@ -6,9 +10,6 @@
 <hr>
 
 **[Linux 版本请点击此处](Vmware-Workstation_For_Linux.md)**  
-<hr>
-
-**[VMware Workstation 更新日志请点击此处](https://docs.vmware.com/cn/VMware-Workstation-Pro/index.html)**
 <hr>
 
 # 目录
